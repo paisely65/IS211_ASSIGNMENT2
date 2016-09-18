@@ -1,4 +1,4 @@
-# IS211_ASSIGNMENT2
+# IS211_Assiggnment2
 Week 2 Assignment ­ Python Standard Library
 For this week’s assignment, we will be going over the 5 modules that we reviewed in the Python Standard Library. This homework should be a bit more difficult than last week, but not too difficult. Starting next week, the lesson content and assignments will pick up the pace.
 Overview
